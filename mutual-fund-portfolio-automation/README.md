@@ -1,6 +1,6 @@
 #### **Project: Mutual Fund Portfolio Data Consolidation \& Automation**
 
-
+Python-based data pipeline to consolidate and standardize mutual fund portfolio disclosures into analytics-ready datasets.
 
 
 
@@ -174,4 +174,5 @@ G. **Output Segmentation:**
  	1.equity\_portfolio.csv
 
  	2.debt\_portfolio.csv
+
 
